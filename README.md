@@ -23,3 +23,10 @@ If you have a useful Python code snippet that you would like to share, feel free
 
 ## License
 This repository is licensed under the MIT License. Feel free to use the code in this repository for your projects.
+
+╭━━━╮╱╱╭╮╱╱╱╱╱╱╭╮╱╱╱╱╭╮╱╭━╮╭━╮╱╱╭╮
+┃╭━╮┃╱╱┃┃╱╱╱╱╱╭╯╰╮╱╱╱┃┃╱┃┃╰╯┃┃╱╭╯╰╮
+┃┃╱╰╋━━┫┃╭━━┳━┻╮╭╋┳━━┫┃╱┃╭╮╭╮┣━┻╮╭╋━┳┳╮╭╮
+┃┃╱╭┫┃━┫┃┃┃━┫━━┫┃┣┫╭╮┃┃╱┃┃┃┃┃┃╭╮┃┃┃╭╋╋╋╋╯
+┃╰━╯┃┃━┫╰┫┃━╋━━┃╰┫┃╭╮┃╰╮┃┃┃┃┃┃╭╮┃╰┫┃┃┣╋╋╮
+╰━━━┻━━┻━┻━━┻━━┻━┻┻╯╰┻━╯╰╯╰╯╰┻╯╰┻━┻╯╰┻╯╰╯
